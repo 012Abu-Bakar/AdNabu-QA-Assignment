@@ -48,4 +48,3 @@ screenshots/
 chromedriver
 
 .pytest_cache/
-reports/*.png
